@@ -1,0 +1,48 @@
+@media screen and (max-width: 1630px) {
+
+    .content {
+        width: 85%;
+    }
+
+}
+
+@media screen and (max-width: 900px) {
+
+    .content {
+        width: 100%;
+    }
+
+}
+
+@media screen and (max-width: 600px) {
+
+    .content {
+        width: 100%;
+    }
+
+    .main-picture {
+        height: 200px;
+    }
+
+    .logo {
+        width: 30%;
+    }
+
+    .tekst {
+        width: 70%;
+    }
+
+    .picture {
+        width: 150px;
+        height: 150px;
+    }
+
+    h1 {
+        font-size: 20px;
+    }
+
+    h2 {
+        font-size: 15px;
+    }
+
+}
